@@ -1,7 +1,14 @@
 package estrutura;
 
 public class Main {
-
+	/*
+		 * @ Autor: Dayvison Dunga;
+		 * @ Data: 30/04/2017;
+		 * @ Local: Rio Branco, Ac;
+		 * @ GitHub: ddwai (Dayvison Dunga)
+		 * @ Facebook: www.facebook.com.br/dayvison09
+	*/
+		
 	public static void main(String[] args) {
 		
 		// Criação do objeto figuras, com os valores definidos.
